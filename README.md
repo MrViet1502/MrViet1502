@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nguyễn Quốc Việt!
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!)
+
 
 ### 🎓 Student at Ho Chi Minh City University of Technology
 I'm currently pursuing a degree in **Embedded Software Engineering**. My passion lies in the intersection of software and hardware, making devices smarter and more efficient.
