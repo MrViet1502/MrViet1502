@@ -27,7 +27,7 @@ I'm currently pursuing a degree in **Embedded Software Engineering**. My passion
 I believe that learning never stops and I enjoy every moment of it. Let's connect and share our knowledge!
 
 ![Fun Sticker](https://via.placeholder.com/150.png?text=Keep+Learning!)
-
+![Fun Sticker](https://previews.123rf.com/images/sean824/sean8241509/sean824150900345/45516980-keep-learning.jpg)
 ### 🎯 Goals
 - Contribute to open-source projects.
 - Develop innovative embedded systems solutions.
