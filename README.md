@@ -26,7 +26,7 @@ I'm currently pursuing a degree in **Embedded Software Engineering**. My passion
 ### 🌟 Fun Fact
 I believe that learning never stops and I enjoy every moment of it. Let's connect and share our knowledge!
 
-![Fun Sticker](https://www.bing.com/images/create/professional-it-developer-workspace-with-the-text-/1-66ac458a4ab844c593732b41344949ce?id=b5vy3Cf0QGOLw08PQN0i2Q%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thid=OIG2.8fr20j3PKxg9fg4SA7_j&frame=sydedg&skey=Grd6oPl45A3uD3FRTFKQTg3oH5pXO17qAIziP85_r24&form=SYDBIC)
+![Fun Sticker](https://drive.google.com/file/d/1vJ6Sc4hjTy-ZzZRtMMDust3sS4XHkivF/view?usp=sharing)
 
 ### 🎯 Goals
 - Contribute to open-source projects.
