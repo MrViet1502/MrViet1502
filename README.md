@@ -25,8 +25,8 @@ I'm currently pursuing a degree in **Embedded Software Engineering**. My passion
 
 ### 🌟 Fun Fact
 I believe that learning never stops and I enjoy every moment of it. Let's connect and share our knowledge!
+<img src="https://drive.google.com/uc?export=view&id=1vJ6Sc4hjTy-ZzZRtMMDust3sS4XHkivF" alt="Fun Sticker" width="240"/>
 
-<img src="https://drive.google.com/uc?export=view&id=1vJ6Sc4hjTy-ZzZRtMMDust3sS4XHkivF" alt="Fun Sticker" width="200"/>
 ### 🎯 Goals
 - Contribute to open-source projects.
 - Develop innovative embedded systems solutions.
