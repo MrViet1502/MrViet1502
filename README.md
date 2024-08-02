@@ -9,7 +9,7 @@ I'm currently pursuing a degree in **Embedded Software Engineering**. My passion
 - 🔭 I’m currently working on various projects involving microcontrollers and IoT.
 - 🌱 I’m always eager to learn new technologies and enhance my coding skills.
 - 📚 I love reading books, especially those related to technology and personal development.
-- ⚽️ Sports enthusiast - I enjoy playing football, badminton, and keeping fit.
+- ⚽️ Sports enthusiast - I enjoy playing football, badminton, and running.
 
 ### 🛠️ Technologies & Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
