@@ -25,7 +25,8 @@ I'm currently pursuing a degree in **Embedded Software Engineering**. My passion
 - LinkedIn: [Nguyễn Quốc Việt](https://www.linkedin.com/in/mrviet1502)
 - Email: n.quocviet1502@gmail.com
 ### 📁 My Resume
-- 📄 [View or Download CV (PDF)]([./NguyenQuocViet_CV.pdf](https://github.com/MrViet1502/MrViet1502/blob/main/NguyenQuocViet_EmbeddedSoftware_CV.pdf))
+- 📄 [Download My CV (PDF)](https://github.com/MrViet1502/MrViet1502/raw/main/NguyenQuocViet_EmbeddedSoftware_CV.pdf)
+
 
 ### 🌟 Fun Fact
 I believe that learning never stops and I enjoy every moment of it. Let's connect and share our knowledge!
